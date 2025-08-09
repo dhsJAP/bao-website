@@ -1,0 +1,32 @@
+[
+  {
+    "id": "N5:Gia đình:家族",
+    "level": "N5",
+    "category": "Gia đình",
+    "kanji": "家族",
+    "kana": "かぞく",
+    "meaningVi": "Gia đình",
+    "exampleJa": "私の家族は四人です。",
+    "exampleVi": "Gia đình tôi có bốn người."
+  },
+  {
+    "id": "N5:Gia đình:父",
+    "level": "N5",
+    "category": "Gia đình",
+    "kanji": "父",
+    "kana": "ちち",
+    "meaningVi": "Bố (của mình)",
+    "exampleJa": "父は会社員です。",
+    "exampleVi": "Bố tôi là nhân viên công ty."
+  },
+  {
+    "id": "N5:Gia đình:母",
+    "level": "N5",
+    "category": "Gia đình",
+    "kanji": "母",
+    "kana": "はは",
+    "meaningVi": "Mẹ (của mình)",
+    "exampleJa": "母は料理が上手です。",
+    "exampleVi": "Mẹ tôi nấu ăn rất ngon."
+  }
+]

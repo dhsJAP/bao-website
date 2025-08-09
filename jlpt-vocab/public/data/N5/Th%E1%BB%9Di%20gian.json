@@ -1,0 +1,22 @@
+[
+  {
+    "id": "N5:Thời gian:今日",
+    "level": "N5",
+    "category": "Thời gian",
+    "kanji": "今日",
+    "kana": "きょう",
+    "meaningVi": "Hôm nay",
+    "exampleJa": "今日は忙しいです。",
+    "exampleVi": "Hôm nay bận rộn."
+  },
+  {
+    "id": "N5:Thời gian:明日",
+    "level": "N5",
+    "category": "Thời gian",
+    "kanji": "明日",
+    "kana": "あした",
+    "meaningVi": "Ngày mai",
+    "exampleJa": "明日、学校に行きます。",
+    "exampleVi": "Ngày mai tôi đi học."
+  }
+]
